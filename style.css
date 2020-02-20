@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lobster', cursive;
+}
+
+h1{
+    font-size: 50px;
+}
+.name_highlight{
+    color: orange;
+}
+.first_section{
+    margin: 50px;
+    width: 40%;
+    float: left;
+}
+.first_section img{
+    width: 100%;
+}
