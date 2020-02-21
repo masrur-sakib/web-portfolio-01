@@ -67,7 +67,7 @@ h1{
     border-image: linear-gradient(180deg, blue, #05a1fc);
     border-image-slice: 1;
 }
-footer{
+footer p{
     text-align: center;
     padding-bottom: 3%;
 }
